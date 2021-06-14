@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- :boy: I’m currently learning Scala
+- :boy: I’m currently learning Kotlin
