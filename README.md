@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- :boy: I’m currently learning Kotlin
+- :boy: I’m currently learning Angular
