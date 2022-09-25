@@ -22,7 +22,7 @@ spec:
       skill: MySQL, MongoDB, PostgreSQL
     -
       type: Development Tools
-      skill: IntelliJ IDEA, Visual Studio Code
+      skill: IntelliJ IDEA, GoLand, Visual Studio Code
     -
       type: Frameworks
       skill: Spring Boot, Angular
@@ -32,6 +32,9 @@ spec:
     -
       type: Operating Systems
       skill: Linux, Windows
+    -
+      type: Container Technology
+      skill: Docker, Podman
   languages:
     -
       type: Native proficiency
