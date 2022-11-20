@@ -13,13 +13,13 @@ spec:
   techStack:
     - 
       type: Programming Languages
-      skill: Java, Go, Scala
+      skill: Java, Kotlin, Go, Scala
     - 
       type: Scripting Languages
-      skill: JavaScript, TypeScript, Shell Scripting
+      skill: JavaScript, TypeScript, Shell Script
     - 
       type: Databases
-      skill: MySQL, MongoDB, PostgreSQL
+      skill: MongoDB, MySQL, PostgreSQL
     -
       type: Development Tools
       skill: IntelliJ IDEA, GoLand, Visual Studio Code
@@ -27,7 +27,7 @@ spec:
       type: Frameworks
       skill: Spring Boot, Angular
     -
-      type: Server products
+      type: Server Products
       skill: Tomcat, Apache
     -
       type: Operating Systems
