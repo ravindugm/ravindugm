@@ -9,7 +9,7 @@ metadata:
   name: Ravindu Miyuranga
   country: Sri Lanka
 spec:
-  purpose: Research, Analyze & Develop new things
+  purpose: Research, Analyze & Develop New Things
   techStack:
     - 
       type: Programming Languages
@@ -37,13 +37,13 @@ spec:
       skill: Docker, Podman
   languages:
     -
-      type: Native proficiency
+      type: Native Proficiency
       language: Sinhalese 🇱🇰
     -
-      type: Professional working proficiency
+      type: Professional Working Proficiency
       language: English 🇬🇧
     -
-      type: Limited working proficiency
+      type: Limited Working Proficiency
       language: Japanese 🇯🇵
 
 ```
