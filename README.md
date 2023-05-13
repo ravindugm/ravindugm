@@ -16,7 +16,7 @@ spec:
       skill: Java, Kotlin, Go, Scala
     - 
       type: Scripting Languages
-      skill: JavaScript, TypeScript, Shell Script
+      skill: JavaScript, TypeScript, Shell Script, GraphQL
     - 
       type: Databases
       skill: MongoDB, MySQL, PostgreSQL
